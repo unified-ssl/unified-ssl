@@ -3,33 +3,27 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Unified Semi-Supervised Learning with Foundation Models
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+- Room 115A, Philadelphia Convention Center, PA, USA
+- 8:30am-10:15am, February 25, 2025
 
-More specifically, the created site:
+![](imgs/aaai25.jpg)
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## Presenters
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+![](imgs/people.jpg)
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+- [Hao Chen](https://hhhhhhao.github.io/), Carnegie Mellon University, haoc3 (at) andrew.cmu.edu
+- [Yidong Wang](https://qianlanwyd.github.io/), Peking University, yidongwang37 (at) gmail.com
+- [Wei Ye](https://yanglinyi.github.io/), Peking University, wye (at) pku.edu.cn
+- [Bhiksha Raj](https://cmu-mlsp.github.io/team/bhiksha_raj), Carnegie Mellon University, bhiksha (at) cs.cmu.edu
+- [Jindong Wang](https://jd92.wang/), William & Mary, jwang80 (at) wm.edu
 
-To get started with creating a site, simply:
+## Contents at a glance
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+Slides will be available soon.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+![](imgs/content.jpg)
 
-----
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
